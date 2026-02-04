@@ -1,7 +1,4 @@
----
-
-## ✨ Project Highlights
-
+# 🌟 Project Overview & Highlights
 This Task Manager is designed with simplicity and clarity in mind.  
 It provides a clean user experience while demonstrating the fundamental concepts required to build a full-stack web application using Flask.
 
@@ -11,13 +8,10 @@ The application follows a structured architecture where:
 - SQLAlchemy manages database interactions
 - Jinja2 templates render dynamic content
 - Bootstrap cards create a modern and responsive UI
-
+  
 Despite being a beginner-friendly project, it reflects real-world development practices such as modular code structure, ORM usage, and deployment readiness.
 
----
-
-## 🧠 Key Concepts Demonstrated
-
+# 🧠 Key Concepts Demonstrated
 This project is a practical implementation of:
 
 - CRUD (Create, Read, Update, Delete) operations
@@ -27,9 +21,7 @@ This project is a practical implementation of:
 - Responsive design using Bootstrap
 - Preparing a Flask app for production deployment (Gunicorn + Render)
 
----
-
-## 🎨 User Interface
+# 🎨 User Interface
 
 The UI is built using **Bootstrap Cards** and custom CSS effects to provide:
 
@@ -37,9 +29,7 @@ The UI is built using **Bootstrap Cards** and custom CSS effects to provide:
 - Clean layout and spacing
 - Responsive design for different screen sizes
 - Visual distinction for completed tasks
-
----
-
+  
 ## 📈 Why This Project Matters
 
 This project is ideal for students and beginners who want to:
